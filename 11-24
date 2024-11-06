@@ -1,7 +1,7 @@
 ************************************************************Argentina AR***********************************************************************************************
 
 #EXTM3U
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Television
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="General",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
