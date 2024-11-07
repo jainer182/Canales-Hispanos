@@ -1362,7 +1362,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200" group-title="",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/800px-SolMusica.png" group-title="Music",Sol Musica
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://airfiberaljarafe.es/wp-content/uploads/2021/09/1e8d9b82d2af6f6ad3633cefb73e05b2_c-sol.svg.png" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista
