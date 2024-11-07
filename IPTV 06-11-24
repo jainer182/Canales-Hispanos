@@ -1238,17 +1238,15 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-logo="https://i.imgur.com/EQmRrTF.png" group-title="General",La 8 Mediterraneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
-#EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="",Lancelot TV
+#EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="",La Sexta
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="",La Urban TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="LiraTV.es" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Music",LiraTV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="",Logos TV
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" group-title="",Logos TV
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-id="LogosTVEstudio.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Religious",Logos TV Estudio
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
@@ -1256,15 +1254,15 @@ https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Lifestyle",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="",M95 Television Marbella
+#EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="",M95 Television Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
 #EXTINF:-1 tvg-id="Malaga24h.es" tvg-logo="https://i.imgur.com/jxDCxNh.png" group-title="",Malaga 24h
 https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
-#EXTINF:-1 tvg-id="MarTV.es" tvg-logo="https://i.imgur.com/qQkkavo.png" group-title="",Mar TV
+#EXTINF:-1 tvg-id="MarTV.es" tvg-logo="https://graph.facebook.com/martelevisio/picture?width=200&height=200" group-title="",Mar TV
 http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 
-#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="",Mijas 3.40TV
+#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="",Mijas 3.40TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="MirameTV.es" tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="",Mirame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
@@ -1282,7 +1280,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NoroesteTV.es" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="",Noroeste TV
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="",Nortevision
+#EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="",Nortevision
 http://amaru.dyndns.org:8870/0.m3u8
 
 
@@ -1299,7 +1297,7 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Legislative",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 
-#EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="",Pequeradio
+#EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="PieraTV.es" tvg-logo="https://i.imgur.com/R4BzwqR.png" group-title="",Piera TV
 http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
@@ -1326,9 +1324,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
-#EXTINF:-1 tvg-id="PopularTVMurcia.es" tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="",Popular TV Murcia
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+#EXTINF:-1 group-title="populartvmelilla.com/" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/POPULAR-TV-MELILLA.png",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
@@ -1351,6 +1349,9 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
 https://apollo.production-public.tubi.io/live/ac-real-madrid.m3u8
 
+#EXTINF:-1 group-title="C. Valenciana" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Entertainment",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
@@ -1359,9 +1360,9 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://i.imgur.com/Bgm2iZY.png" group-title="",Solidaria TV
+#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200" group-title="",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",Sol Musica
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/800px-SolMusica.png" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista
@@ -1374,14 +1375,14 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/mani
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-id="TarotVision.es" tvg-logo="https://i.imgur.com/yOQ9e3a.png" group-title="Religious",TarotVision
 https://stream.andalhost.com/hls/tarotvision.m3u8
-#EXTINF:-1 tvg-id="TBNEspana.es" tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religious",TBN Espana
+#EXTINF:-1 tvg-id="TBNEspana.es" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200" group-title="Religious",TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7
+#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TELE7_LOGO.png"" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Sports",Teledeporte
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="General",Tele Elx
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
@@ -1410,9 +1411,9 @@ https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://i.imgur.com/Fbti7Ln.png" group-title="Religious",Trece
+#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png" group-title="Religious",Trece
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
-#EXTINF:-1 tvg-id="TuyaLaJandaTelevision.es" tvg-logo="https://i.imgur.com/KjWuini.png" group-title="",Tuya La Janda Television
+#EXTINF:-1 tvg-id="TuyaLaJandaTelevision.es" tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200" group-title="",Tuya La Janda TV
 http://185.210.20.13:8080/0.m3u8
 
 #EXTINF:-1 tvg-id="TVA.es" tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="",TVA
@@ -1432,10 +1433,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Series",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="TVFerrol.es" tvg-logo="https://i.imgur.com/TjpjoOu.png" group-title="",TV Ferrol
+#EXTINF:-1 tvg-id="TVFerrol.es" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200" group-title="",TV Ferrol
 https://directo.tvferrol.es/tv.m3u8
 
-#EXTINF:-1 tvg-id="TVMCordoba.es" tvg-logo="https://i.imgur.com/jN5k8Ob.png" group-title="",TVM Cordoba
+#EXTINF:-1 tvg-id="TVMCordoba.es" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="",TVM Cordoba
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.es" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="General",TVR
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
@@ -1449,11 +1450,11 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 https://ythls.armelin.one/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
 
 
-#EXTINF:-1 tvg-id="UneVinalopo.es" tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="",Une Vinalopo
+#EXTINF:-1 tvg-id="UneVinalopo.es" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=200&height=200" group-title="",Une Vinalopo
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-id="UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Entertainment",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-logo="https://i.imgur.com/V23bltn.png" group-title="General",Urola Telebista
+#EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/urola-telebista-100x70.png" group-title="General",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VerbenaTV.es" tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png" group-title="Music",Verbena TV
